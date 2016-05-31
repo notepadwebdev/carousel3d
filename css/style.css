@@ -90,7 +90,7 @@ html.no-js #carouselWrap {
 	-webkit-transition: -webkit-transform 0.8s linear; 
 	   -moz-transition: -moz-transform 0.8s linear;
 	    -ms-transition: -ms-transform 0.8s linear;
-			transition: -ms-transform 0.8s linear;
+			transition: transform 0.8s linear;
 	-webkit-transform-style: preserve-3d; 
 	   -moz-transform-style: preserve-3d;
 	    -ms-transform-style: preserve-3d;
